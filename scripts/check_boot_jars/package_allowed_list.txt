@@ -296,3 +296,6 @@ org\.ifaa\.android\.manager.*
 
 # Lineage HALs
 vendor\.lineage\..*
+
+# LMODroid adds
+com\.libremobileos.*
